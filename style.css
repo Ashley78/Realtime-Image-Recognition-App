@@ -1,0 +1,55 @@
+.heading{
+    font-size: 35px;
+    width: 850px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+    height: 225px;
+    background: rgb(82, 82, 82);
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+.heading_div{
+    background: rgb(0, 0, 0);
+    color: white;
+    float: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(182, 181, 181);
+    padding: 10px;
+    height: 150px;
+}
+.heading_div2{
+    background: white;
+    color: black;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+.object_name{
+    box-shadow: 5px 5px 5px white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.accuracy{
+    box-shadow: 5px 5px 5px white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#label{
+   text-align: center;
+   background: rgba(1, 255, 158, 0.616);
+   color: black;
+   margin-top: 400px;
+   font-size: 20px;
+   font-family: cursive;
+}
+
+canvas{
+    border:5px solid white;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    margin-top: 200px;
+}
